@@ -13,5 +13,4 @@ angular.module('Booya')
         //failure
     });
 
-    console.log($scope.celebrity_list);
 });
