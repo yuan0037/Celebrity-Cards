@@ -1,0 +1,13 @@
+{
+    "celebrities":[
+        {"id":1,"full_name":"Courteney Cox","age":33,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "01.jpg"}, {"id":2,"full_name":"Catherine Zeta-Jones","age":35,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "02.jpg"},
+{"id":3,"full_name":"Drew Barrymore","age":29,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "03.jpg"}, {"id":4,"full_name":"Maria Sharapova","age":25,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "04.jpg"},
+{"id":5,"full_name":"Reese Witherspoon","age":45,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "05.jpg"},
+{"id":6,"full_name":"Jack Black","age":35,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "06.jpg"},
+{"id":7,"full_name":"Keira Knightley","age":37,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "07.jpg"},
+{"id":8,"full_name":"Jeremy Renner","age":35,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "08.jpg"},
+{"id":9,"full_name":"Sean Connery","age":33,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "09.jpg"},
+{"id":10,"full_name":"Tom Hanks","age":52,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "10.jpg"},
+{"id":11,"full_name":"Matthew McConaughey","age":33,"favorite_food":"Spagetti", "assistant_hour_rate": 31.65, "image": "11.jpg"},
+{"id":12,"full_name":"David Beckham","age":35,"favorite_food":"Dumplin", "assistant_hour_rate": 39.35, "image": "12.jpg"} 
+]}
